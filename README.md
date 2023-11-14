@@ -1,1 +1,2 @@
-# mythware_minus_minus
+# Mythware--
+A small tool for hacking mythware student client.
